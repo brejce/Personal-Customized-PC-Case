@@ -16,4 +16,8 @@ cpu散热：70mm高度内
 电源：sfx、sfx-l  
 风扇:底部12015*2、显卡侧12015*2
 ## 预览图
-![截图1](https://github.com/brejce/Personal-Customized-PC-Case/blob/main/%E6%88%AA%E5%9B%BEScreenShots/IMG_0150.PNG)
+![截图1](https://github.com/brejce/Personal-Customized-PC-Case/blob/main/%E6%88%AA%E5%9B%BEScreenShots/IMG_0150.PNG)  
+![截图1](https://github.com/brejce/Personal-Customized-PC-Case/blob/main/%E6%88%AA%E5%9B%BEScreenShots/IMG_0151.PNG)  
+![截图1](https://github.com/brejce/Personal-Customized-PC-Case/blob/main/%E6%88%AA%E5%9B%BEScreenShots/IMG_0152.PNG)  
+![照片1](https://github.com/brejce/Personal-Customized-PC-Case/blob/main/%E6%88%AA%E5%9B%BEScreenShots/IMG_20210709_132220.jpg)  
+![照片2](https://github.com/brejce/Personal-Customized-PC-Case/blob/main/%E6%88%AA%E5%9B%BEScreenShots/IMG_20210709_132352.jpg)
