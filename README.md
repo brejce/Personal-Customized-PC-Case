@@ -7,15 +7,15 @@
 机箱主要结构为亚克力+碳纤维，可以根据需要更改材料。体积10.58L 。  
 前部和侧面三块板材由磁铁吸附固定，方便拆卸。
 ## 三围
--长331mm  
--宽146mm  
--高219mm（不含脚垫）
+- 长331mm  
+- 宽146mm  
+- 高219mm（不含脚垫）
 ## 兼容性
-主板版型：ITX（17mm*17mm）  
-cpu散热：70mm高度内  
-显卡：301*51*110mm以内（该尺寸刚好与机箱贴住）  
-电源：sfx、sfx-l  
-风扇:底部12015*2、显卡侧12015*2
+- 主板版型：ITX（17mm*17mm）  
+- cpu散热：70mm高度内  
+- 显卡：301*51*110mm以内（该尺寸刚好与机箱贴住）  
+- 电源：sfx、sfx-l  
+- 风扇:底部12015*2、显卡侧12015*2
 ## 预览图
 ![截图1](https://github.com/brejce/Personal-Customized-PC-Case/blob/main/%E6%88%AA%E5%9B%BEScreenShots/IMG_0150.PNG)  
 ![截图2](https://github.com/brejce/Personal-Customized-PC-Case/blob/main/%E6%88%AA%E5%9B%BEScreenShots/IMG_0151.PNG)  
